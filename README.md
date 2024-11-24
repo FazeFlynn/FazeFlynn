@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Faze Flynn (Secondary Account)
 
-<!--
-**FazeFlynn/FazeFlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a developer skilled in **C++**, **Python**, **Java**, and **generative AI**. I have created multiple projects in the domains of **web development**, **machine learning**, and **AI tools**. This account is currently active and contains all my repositories. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 My Projects
+Here are some of the key projects I have worked on:
+1. **Pin-Connect (Full-Stack Social Media)**  
+   - A Pinterest-like social media platform built using Node.js, Express.js, and more.  
+   - Features: Post sharing, user authentication, and responsive design.
+
+2. **YouTube Controls (Chrome Extension)**  
+   - Enhances YouTube productivity with speed controls, filters, and dark mode features.  
+
+3. **Web Controls (Chrome Extension)**  
+   - Applies dark mode to websites and videos, with playback speed control and shortcut keys.
+
+4. **Netflix Clone (Frontend)**  
+   - A Netflix UI replica built using **HTML**, **CSS**, and **JavaScript**.
+
+5. **Amazon Clone (Frontend)**  
+   - A frontend-only Amazon clone with responsive design.
+
+---
+
+### 🔗 Important Links
+- Primary Account: [Islam-Khan001](https://github.com/Islam-Khan001) (Currently suspended. Use this account instead.)
+- Contact: [IslamKhan.in](https://www.islamkhan.in) | [LinkedIn](https://www.linkedin.com/in/islam-khan-4644211b2)
+
+---
