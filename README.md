@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faze Flynn (Secondary Account)
+# 👋 Hi, I'm Islam Khan (Faze Flynn) | Secondary Account
 
 ### 🚀 About Me
 I am a developer skilled in **C++**, **Python**, **Java**, and **generative AI**. I have created multiple projects in the domains of **web development**, **machine learning**, and **AI tools**. This account is currently active and contains all my repositories. 
