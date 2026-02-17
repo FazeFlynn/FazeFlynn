@@ -27,6 +27,6 @@ Here are some of the key projects I have worked on:
 
 ### 🔗 Important Links
 - Primary Account: [Islam-Khan001](https://github.com/Islam-Khan001) (Currently flagged. Use this account instead.)
-- Contact: [IslamKhan.in](https://www.islamkhan.in) | [LinkedIn](https://www.linkedin.com/in/islam-khan-4644211b2)
+- Contact: [IslamKhan.in](https://www.islamkhan.in) | [LinkedIn](https://www.linkedin.com/in/islam-khan-4644211b2/)
 
 ---
