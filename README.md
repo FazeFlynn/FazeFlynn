@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-> **ML Engineer** with **1.5+ years** of professional experience, focused on **LLM fine-tuning, RAG pipelines, and production AI systems**. I build end-to-end intelligent systems — from training deep learning models to deploying them in scalable, real-world applications.
+> **ML Engineer** with **1.5+ years** of experience for building machine learning models, focused on **LLM fine-tuning, RAG pipelines, and production AI systems**. I build end-to-end intelligent systems — from training deep learning models to deploying them in scalable, real-world applications.
 
 - 🔬 Currently targeting roles in **Machine Learning**, **LLM Training & Fine-Tuning**, and **GenAI Systems**
 - 🏗️ Built and shipped production ML pipelines, RAG systems, and AI-powered microservices
