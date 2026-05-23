@@ -13,22 +13,22 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 > **ML Engineer** with **1.5+ years** of experience for building machine learning models, focused on **LLM fine-tuning, RAG pipelines, and production AI systems**. I build end-to-end intelligent systems — from training deep learning models to deploying them in scalable, real-world applications.
 
-- 🔬 Currently targeting roles in **Machine Learning**, **LLM Training & Fine-Tuning**, and **GenAI Systems**
-- 🏗️ Built and shipped production ML pipelines, RAG systems, and AI-powered microservices
-- 🎓 MCA in Computer Science — JECRC University (CGPA: **8.57**)
-- 🌍 Based in Rajasthan, India | Open to Remote & Relocation
+- Currently targeting roles in **Machine Learning**, **LLM Training & Fine-Tuning**, and **GenAI Systems**
+- Built and shipped production ML pipelines, RAG systems, and AI-powered microservices
+- MCA in Computer Science — JECRC University (CGPA: **8.57**)
+- Based in Rajasthan, India | Open to Remote & Relocation
 
 ---
 
-## ⚡ Core Competencies
+## Core Competencies
 
 <div align="center">
 
-| 🤖 ML / AI | 🛠️ MLOps & Infra | 🌐 Full Stack |
+| ML / AI | MLOps & Infra | Full Stack |
 |:---:|:---:|:---:|
 | PyTorch · TensorFlow · Keras | Docker · AWS S3 · Redis | React.js · Next.js · Node.js |
 | Transformers · HuggingFace | FastAPI · Flask | MongoDB · PostgreSQL |
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured ML Projects
+## Featured ML Projects
 
 ### 🔷 [RAG System](https://rag-frontend-azure-phi.vercel.app/) — Retrieval-Augmented Generation Pipeline
 > `FastAPI` `ChromaDB` `Ollama` `LLaMA 3.1` `SearXNG` `Sentence Transformers` `React.js`
@@ -69,7 +69,7 @@
 
 ---
 
-## 🏗️ Full Stack & Production Projects
+## Full Stack & Production Projects
 
 ### 🔶 [CarBike4U](https://www.carbike4u.com/) — Automobile Marketplace Platform
 > `Next.js` `Node.js` `MongoDB` `Redis` `RabbitMQ` `Docker` `AWS S3`
@@ -97,7 +97,7 @@
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### JSB Global Infotech — *MERN Stack Developer* `May 2025 – May 2026` · Full-Time
 - Engineered **React Native (Expo)** apps and **React.js/Next.js** platforms, including admin panels and public frontends
@@ -111,7 +111,7 @@
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 | Certificate | Issuer |
 |---|---|
@@ -132,7 +132,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 | Degree | Institution | CGPA |
 |---|---|---|
