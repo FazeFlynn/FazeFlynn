@@ -42,6 +42,27 @@
 
 ## 🚀 Featured ML Projects
 
+### 🔷 LLM Pretraining & Alignment 350M GPT — Training a GPT from Scratch
+
+> `CUDA` `PyTorch` `Transformers` `Flash Attention` `RMSNorm` `Mixed Precision` `Weights & Biases` `Hugging Face`
+
+- Designed and trained a **350M-parameter GPT-style decoder-only transformer** (24L × 16H × 1024D, 50304 vocab) from scratch on **6.83B tokens**, achieving **3.04 validation loss** and **20.9 perplexity**
+- Built a **fault-tolerant streaming data pipeline** using Colab CPU tokenization, uint16 binary shards, RunPod storage, and rclone-based dataset transfers
+- Resolved persistent **torch.compile + BF16 OOM issues** by isolating lm_head and cross_entropy outside the compiled graph, preventing 12GB FP32 gradient allocations
+- Applied **Supervised Fine-Tuning (SFT)** on OpenHermes 2.5 (288M tokens, 746K examples), implemented identity alignment, resumable checkpointing, and tracked training with Weights & Biases before publishing the model on Hugging Face
+- 
+---
+
+### 🔷 Mistral-7B Fine-Tuning — Domain-Specific Instruction Tuning
+
+> `QLoRA` `PEFT` `TRL` `PyTorch` `BitsAndBytes` `Transformers` `Weights & Biases` `Hugging Face`
+
+- Fine-tuned **Mistral-7B-Instruct-v0.3** using QLoRA (NF4 4-bit, r=64) on **500 domain-specific instruction-response pairs** while training only **0.5% of model parameters**
+- Achieved **13% lower perplexity** than the base model using cosine learning-rate scheduling, Paged AdamW, gradient checkpointing, and Nvidia A100 80GB GPUs
+- Logged experiments with Weights & Biases, merged LoRA adapters into the base model, and open-sourced the final model on Hugging Face with a detailed model card
+
+---
+
 ### 🔷 [RAG System](https://rag-frontend-azure-phi.vercel.app/) — Retrieval-Augmented Generation Pipeline
 > `FastAPI` `ChromaDB` `Ollama` `LLaMA 3.1` `SearXNG` `Sentence Transformers` `React.js`
 
