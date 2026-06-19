@@ -42,7 +42,7 @@
 
 ## 🚀 Featured ML Projects
 
-### 🔷 LLM Pretraining & Alignment 350M GPT — Training a GPT from Scratch
+### 🔷 [LLM Pretraining & Alignment 350M GPT](https://huggingface.co/FazeFlynn/my-350M-LLM) — Trained a GPT from Scratch
 
 > `CUDA` `PyTorch` `Transformers` `Flash Attention` `RMSNorm` `Mixed Precision` `Weights & Biases` `Hugging Face`
 
@@ -53,11 +53,11 @@
 
 ---
 
-### 🔷 Mistral-7B Fine-Tuning — Domain-Specific Instruction Tuning
+### 🔷 [Mistral-7B Fine-Tuning](https://huggingface.co/FazeFlynn/mistral-7b-llm-architecture-expert) — Domain-Specific Instruction Tuning 
 
 > `QLoRA` `PEFT` `TRL` `PyTorch` `BitsAndBytes` `Transformers` `Weights & Biases` `Hugging Face`
 
-- Fine-tuned **Mistral-7B-Instruct-v0.3** using QLoRA (NF4 4-bit, r=64) on **500 domain-specific instruction-response pairs** while training only **0.5% of model parameters**
+- Fine-tuned **Mistral-7B-Instruct-v0.3** using QLoRA (NF4 4-bit, r=64) on **500 domain-specific (LLM Architecture) instruction-response pairs** while training only **0.5% of model parameters**
 - Achieved **13% lower perplexity** than the base model using cosine learning-rate scheduling, Paged AdamW, gradient checkpointing, and Nvidia A100 80GB GPUs
 - Logged experiments with Weights & Biases, merged LoRA adapters into the base model, and open-sourced the final model on Hugging Face with a detailed model card
 
