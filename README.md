@@ -50,7 +50,7 @@
 - Built a **fault-tolerant streaming data pipeline** using Colab CPU tokenization, uint16 binary shards, RunPod storage, and rclone-based dataset transfers
 - Resolved persistent **torch.compile + BF16 OOM issues** by isolating lm_head and cross_entropy outside the compiled graph, preventing 12GB FP32 gradient allocations
 - Applied **Supervised Fine-Tuning (SFT)** on OpenHermes 2.5 (288M tokens, 746K examples), implemented identity alignment, resumable checkpointing, and tracked training with Weights & Biases before publishing the model on Hugging Face
-- 
+
 ---
 
 ### 🔷 Mistral-7B Fine-Tuning — Domain-Specific Instruction Tuning
