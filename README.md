@@ -136,6 +136,8 @@
 
 | Certificate | Issuer |
 |---|---|
+| [Claude 101](https://verify.skilljar.com/c/gbho7dht6tya) | Anthropic |
+| [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/bnzsbxr2qqrp) | Anthropic |
 | [Deep Learning and AI](https://drive.google.com/file/d/1McZjBA5C_gTVzF4xN-uy9R4Tun1OQ9gw/view?usp=drivesdk) | KPMG International |
 | [Responsible Generative AI](https://learn.microsoft.com/en-gb/users/islamkathat-2816/achievements/3ykmmt5h) | Microsoft |
 | [Java Certificate](https://www.hackerrank.com/certificates/9a623e550145) | HackerRank |
@@ -147,7 +149,7 @@
 | Project | Description |
 |---|---|
 | [AI Club](https://github.com/FazeFlynn/AI-Club) | Desktop app that sends prompts to multiple AI models in parallel and compares responses |
-| [Web Controls](https://chromewebstore.google.com/detail/web-controls-for-students/cebfhocehpaleaipocacbppidnpgodki?pli=1) | Chrome extension — dark mode, video playback controls, shortcut keys |
+| [Web Controls](https://chromewebstore.google.com/detail/web-controls-for-students/cebfhocehpaleaipocacbppidnpgodki?pli=1) | Chrome extension — dark mode, video playback controls, shortcut key
 | [YouTube Controls](https://chromewebstore.google.com/detail/youtube-controls-for-stud/hhpfppdofgfkkdediiepaeogdnihmbdj) | YouTube productivity extension with speed controls and tools |
 | [BTTN App](https://admin.bttnservices.com) | Ride-hailing app with real-time driver assignment and live tracking |
 
