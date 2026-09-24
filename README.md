@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Islam%20Kathat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%7C%20LLM%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a78bfa" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Islam%20Kathat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20GenAI%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a78bfa" alt="header"/>
 
 <p>
   <a href="https://www.islamkhan.in"><img src="https://img.shields.io/badge/Portfolio-islamkhan.in-7c3aed?style=for-the-badge&logo=firefox&logoColor=white"/></a>
