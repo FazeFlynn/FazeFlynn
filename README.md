@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured ML Projects
+## 🚀 Featured AI/ML Projects
 
 ### 🔷 [LLM Pretraining & Alignment 350M GPT](https://huggingface.co/FazeFlynn/my-350M-LLM) — Trained a GPT from Scratch
 
