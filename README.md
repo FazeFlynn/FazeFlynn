@@ -120,7 +120,9 @@
 
 ## 💼 Work Experience
 
-### JSB Global Infotech — *MERN Stack Developer* `May 2025 – May 2026` · Full-Time
+### JSB Global Infotech — *Full Stack AI Engineer* `May 2025 – May 2026` · Full-Time
+- Fine-tuned and deployed a retrieval-grounded LLaMA 3.1 support assistant on the company site, replacing templated
+replies with answers grounded in the company’s own documents.
 - Engineered **React Native (Expo)** apps and **React.js/Next.js** platforms, including admin panels and public frontends
 - Architected backend microservices using **Redis, Docker, AWS S3**, and AI pipelines to automate content workflows
 - Delivered data-driven apps with REST APIs, RealmDB, and MongoDB pipelines — **35% reduction in response time**
@@ -166,7 +168,7 @@
 
 <div align="center">
 
-**Open to ML Engineer, LLM Engineer, and GenAI roles — remote or on-site.**
+**Open to AI/ML Engineer, LLM Engineer, and GenAI roles — remote or on-site.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-islamkhan.in-7c3aed?style=for-the-badge)](https://www.islamkhan.in)
 [![Resume (ML)](https://img.shields.io/badge/📄_ML_Resume-Download-5b21b6?style=for-the-badge)](https://islamkhan.in/assets/resume/IslamKathatResume_AIML.pdf)
